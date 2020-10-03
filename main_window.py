@@ -33,7 +33,7 @@ import multiprocessing
 def log_out():
     print("Logging out...")
     my_window.destroy()
-    # importjj login_window
+    # import login_window
 
 
 def power_val_update(*args):
