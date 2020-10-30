@@ -9,6 +9,8 @@
 
 ## General info
 This project is developed entirely by Liam Price in order to pass the Systems Engineering SAT at BSSC. The overall function of this software is to remotely control an electrically automated petrol engine quad bike which I am also developing for Systems Engineering.
+Here is the repository for the Arduino software: https://github.com/LeehamElectronics/AQB-Arduino/blob/main/README.md
+
 Here is a YouTube video with a basic demonstration of the system: https://www.youtube.com/watch?v=ic49dhoIEfM
 	
 ## Technologies
